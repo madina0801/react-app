@@ -20,6 +20,10 @@
 	padding: 1rem;
 }
 
+.content address {
+	font-weight: 400;
+}
+
 .content h3 {
 	font-size: 1.25rem;
 	color: #2c292b;
