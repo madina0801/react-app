@@ -1,7 +1,7 @@
 import classes from './NewMeetupForm.module.css';
 import Card from '../ui/Card';
 
-function NewMeetupFoom() {
+function NewMeetupForm() {
 	return <Card>
 		<form className={classes.form}>
 			<div className={classes.control}>
